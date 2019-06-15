@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: dimgrey;
+}
+h1{
+    color:turquoise ;
+    font-family: "Lobster";
+    font-size: 10rem;
+    font-weight: bold;
+}
+
+p{
+    font-family: "Indie Flower";
+    font-size: 4rem;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+
+#footer {
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+    position: relative;
+    margin-top: 40px;
+}
